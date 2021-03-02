@@ -1,4 +1,4 @@
-I"™E<!--
+I"!J<!--
 TEMPLATE FOR ADDING NEW MEMBER
 COPY IN PROPER HEADING AND ADD DETAILS AS REQUIRED
 
@@ -62,6 +62,8 @@ COPY IN PROPER HEADING AND ADD DETAILS AS REQUIRED
     </ul>
 </div>
 
+<!-- ################################################################################################   FACULTY    ################################################################################################################ -->
+
 <h2 data-magellan-destination="Faculty">Faculty</h2>
 <p><a name="Faculty"></a></p>
 
@@ -122,6 +124,8 @@ problems), Applied algebraic topology (topological data analysis) </p>
 </div>
 <hr />
 </div>
+
+<!-- ################################################################################################   PhD    ################################################################################################################ -->
 
 <h2 data-magellan-destination="PhD">PhDs </h2>
 <p><a name="PhD"></a></p>
@@ -281,6 +285,8 @@ problems), Applied algebraic topology (topological data analysis) </p>
 <hr />
 </div>
 
+<!-- ################################################################################################   MASTERS    ################################################################################################################ -->
+
 <h2 data-magellan-destination="Masters_Students">Masters Students (RA)</h2>
 <p><a name="Masters_Students"></a></p>
 
@@ -382,6 +388,8 @@ problems), Applied algebraic topology (topological data analysis) </p>
 <hr />
 </div>
 
+<!-- #############################################################################################   UNDERGRADUATE    ############################################################################################################# -->
+
 <h2 data-magellan-destination="Undergraduate_Students">Undergraduate Students</h2>
 <p><a name="Undergraduate_Students"></a></p>
 
@@ -437,6 +445,8 @@ Knowledge graphs, Graph neural networks </p>
 </div>
 <hr />
 </div>
+
+<!-- ################################################################################################   ALUMNI    ################################################################################################################ -->
 
 <h2 data-magellan-destination="Alumni">Alumni</h2>
 <p><a name="Alumni"></a></p>

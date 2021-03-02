@@ -44,6 +44,13 @@ interests=""
     </ul>
 </div>
 
+
+
+<!-- ################################################################################################   FACULTY    ################################################################################################################ -->
+
+
+
+
 <h2 data-magellan-destination="Faculty">Faculty</h2><a name="Faculty"></a>
 
 {% include team_member
@@ -61,6 +68,14 @@ interests="Geometric machine learning (graph and point-cloud representation lear
 and assignment
 problems), Applied algebraic topology (topological data analysis)"
 %}
+
+
+
+
+<!-- ################################################################################################   PhD    ################################################################################################################ -->
+
+
+
 
 <h2 data-magellan-destination="PhD">PhDs </h2><a name="PhD"></a>
 
@@ -112,6 +127,12 @@ interests="Scalable auto machine learning, Intersection of DBMS and machine lear
 
 
 
+
+<!-- ################################################################################################   MASTERS    ################################################################################################################ -->
+
+
+
+
 <h2 data-magellan-destination="Masters_Students">Masters Students (RA)</h2><a name="Masters_Students"></a>
 
 {% include team_member
@@ -140,6 +161,14 @@ interests="Geometric machine learning, Natural language processing, Graph neural
 
 
 
+
+
+<!-- #############################################################################################   UNDERGRADUATE    ############################################################################################################# -->
+
+
+
+
+
 <h2 data-magellan-destination="Undergraduate_Students">Undergraduate Students</h2><a name="Undergraduate_Students"></a>
 
 {% include team_member
@@ -155,6 +184,16 @@ interests="Explainability and interpretability of deep neural networks (more spe
 analysis of neural networks,
 Knowledge graphs, Graph neural networks"
 %}
+
+
+
+
+
+
+<!-- ################################################################################################   ALUMNI    ################################################################################################################ -->
+
+
+
 
 
 <h2 data-magellan-destination="Alumni">Alumni</h2><a name="Alumni"></a>

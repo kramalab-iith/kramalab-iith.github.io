@@ -10,7 +10,7 @@ header:
 ---
 
 <!--
-TEMPLATE FOR ADDING NEW MEMBER
+TEMPLATE FOR ADDING NEW BLOG
 COPY IN PROPER HEADING AND ADD DETAILS AS REQUIRED
 
 {% include blog 
@@ -27,6 +27,8 @@ summary='<p align="justify">
 
 -->
 
+
+
 {% include blog 
 title="Simplicial Complex based Point Correspondence between Images warped onto Manifolds" 
 image="/assets/img/blog/simplicial_complex.webp" 
@@ -39,6 +41,9 @@ There exists a longstanding line of research on finding bijective correspondence
 The recent proliferation of spherical images (e.g., omnidirectional and panoramic images captured from cameras mounted on drones and autonomous vehicles) and more generally, images warped onto manifolds with non-trivial curvatures, has sparked a heightened interest in assignment algorithms on warped images due to projection. Thus, we present our work from our <a href="https://eccv2020.eu/" target="_blank">ECCV 2020</a> paper titled <a href="https://arxiv.org/pdf/2007.02381.pdf" target="_blank">“Simplicial Complex based Point Correspondence between Images warped onto Manifolds”</a>.
 </p>' 
 %}
+
+
+
 
 
 {% include blog 
@@ -57,6 +62,9 @@ We present an alternate formulation of the partial assignment problem as matchin
 %}
 
 
+
+
+
 {% include blog 
 title="Spectral-Biased Random Walks on Graphs" 
 image="/assets/img/blog/spectral_random.webp" 
@@ -71,6 +79,9 @@ We present our work from our <a href="https://www.ijcnn.org/" target="_blank">IJ
 %}
 
 
+
+
+
 {% include blog 
 title="Few Shot Learning on Graphs" 
 image="/assets/img/blog/few_shot.webp" 
@@ -81,6 +92,9 @@ summary='<p align="justify">
 Use of Graph Structured data has become quite a common data analysis and data representation technique, thus giving a greater impetus to research interest in developing graph neural networks for various tasks ranging from graph representation learning to link prediction and community detection in graphs. One of the most dominant problems in the graph domain is the well known classification problem. Similar to image classification, here our goal is to the classify a given set of graphs into various classes based on the graph structure and features present on the nodes and edges which could be via inductive or transductive learning techniques. The construction and labelling of graphs is however extremely tedious. Thus we propose, for the first time, the formulation of few-shot learning for graph classification in our <a href="https://iclr.cc/" target="_blank">ICLR</a> paper: <a href="https://openreview.net/forum?id=Bkeeca4Kvr" target="_blank">FEW-SHOT LEARNING ON GRAPHS VIA SUPER-CLASSES BASED ON GRAPH SPECTRAL MEASURES</a>.
 </p>' 
 %}
+
+
+
 
 
 {% include blog 
