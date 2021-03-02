@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Interested in research opportunities in <a href='/'>क्रम (Krama) lab</a>?"
+title: "Interested in joining the <a href='/'>क्रम (Krama) lab</a>?"
 meta_title: ""
 subheadline: ""
 teaser: ""
