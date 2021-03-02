@@ -1,0 +1,162 @@
+- name: GitHub
+  url: https://t0kudai.github.io'
+  class: icon-github
+  title: Github repo for site.
+
+# MEMBER SOCIAL MEDIA TEMPLATE
+# MEMBER_NAME IS SHOULD BE ONE WORD NAME
+
+# - member_name:
+#   social:
+#     - name: GitHub
+#       url:
+#       class: icon-github
+#       title: "GitHub Profile"
+#     - name: Twitter
+#       url:
+#       class: icon-twitter
+#       title: "Professional Twitter account"
+#     - name: linkedin
+#       url:
+#       class: icon-linkedin
+#       title: "Professional LinkedIn account"
+#     - name: dblp
+#       url:
+#       class: icon-dblp
+#       title: "Professional DBLP account"
+#     - name: Link
+#       url:
+#       class: icon-link
+#       title: "Personal Website"
+#     - name: scholar
+#       url:
+#       class: icon-scholar
+#       title: "Professional Google Scholar Account"
+
+
+- member_name: manohar
+  social:
+    - name: Twitter
+      url: https://twitter.com/mkaul1
+      class: icon-twitter
+      title: "Professional Twitter account"
+    - name: linkedin
+      url: https://www.linkedin.com/in/manu-kaul-76399527
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+    - name: Link
+      url: https://subodh01006.github.io/
+      class: icon-link
+      title: "Professional Website"
+    - name: dblp
+      url: http://dblp.uni-trier.de/pers/hd/k/Kaul:Manohar
+      class: icon-dblp
+      title: "Professional DBLP account"
+    - name: scholar
+      url: https://scholar.google.co.in/citations?user=jNroyK4AAAAJ&hl=en
+      class: icon-scholar
+      title: "Professional Google Scholar account"
+
+- member_name: anson
+  social:
+    - name: GitHub
+      url: https://github.com/ansonb
+      class: icon-github
+      title: "GitHub Profile"
+    - name: Twitter
+      url: https://twitter.com/AnsonBastos
+      class: icon-twitter
+      title: "Professional Twitter account"
+    - name: linkedin
+      url: https://www.linkedin.com/in/anson-bastos-70741297/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+    - name: scholar
+      url: https://scholar.google.com/citations?hl=en&user=is7rRuAAAAAJ&view_op=list_works&gmla=AJsN-F4sQ6kvZThsnsOKeuEFnP8sHaOptGe_edrGWlMmWDIO3mO7QnDDE9-08rlac3E48pRrI9tyNrS9lE6uz1d-87-WCcMSF0VXrssWpdh0rXE0522j51w
+      class: icon-scholar
+      title: "Professional Google Scholar Account"
+
+
+- member_name: jatin
+  social:
+    - name: GitHub
+      url: https://github.com/chauhanjatin10/
+      class: icon-github
+      title: "GitHub Profile"
+    - name: Twitter
+      url: https://twitter.com/chauhanjatin100
+      class: icon-twitter
+      title: "Professional Twitter account"
+    - name: linkedin
+      url: https://www.linkedin.com/in/jatin-chauhan-549937169/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+    - name: Link
+      url: https://chauhanjatin10.github.io/
+      class: icon-link
+      title: "Personal Website"
+
+
+- member_name: charu
+  social:
+    - name: GitHub
+      url: https://github.com/charusharma1991
+      class: icon-github
+      title: "GitHub Profile"
+    - name: Twitter
+      url: https://twitter.com/charusharma1991
+      class: icon-twitter
+      title: "Professional Twitter account"
+    - name: linkedin
+      url: https://www.linkedin.com/in/charusharma1991/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+    - name: Link
+      url: https://sites.google.com/site/charusharmacseiith/
+      class: icon-link
+      title: "Personal Website"
+    - name: scholar
+      url: https://scholar.google.com/citations?user=B5MMkloAAAAJ&hl=en
+      class: icon-scholar
+      title: "Professional Google Scholar Account"
+
+
+
+- member_name: deepak
+  social:
+    - name: GitHub
+      url: https://github.com/deepakn97
+      class: icon-github
+      title: "GitHub Profile"
+    - name: Link
+      url: https://deepakn97.github.io/
+      class: icon-link
+      title: "Personal Website"
+
+
+- member_name: vishal
+  social:
+    - name: GitHub
+      url: https://github.com/T0kudai
+      class: icon-github
+      title: "GitHub Profile"
+    - name: Twitter
+      url: https://twitter.com/_tokudai
+      class: icon-twitter
+      title: "Professional Twitter account"
+    - name: linkedin
+      url: https://www.linkedin.com/in/tokudai/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+
+
+- member_name: subodh
+  social:
+    - name: GitHub
+      url: https://github.com/subodh01006
+      class: icon-github
+      title: "GitHub Profile"
+    - name: linkedin
+      url: https://www.linkedin.com/in/subodh1827/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"

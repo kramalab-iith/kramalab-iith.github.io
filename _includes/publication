@@ -1,0 +1,82 @@
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    extensions: [
+      "MathMenu.js",
+      "MathZoom.js",
+      "AssistiveMML.js",
+      "a11y/accessibility-menu.js"
+    ],
+    jax: ["input/TeX", "output/CommonHTML"],
+    TeX: {
+      extensions: [
+        "AMSmath.js",
+        "AMSsymbols.js",
+        "noErrors.js",
+        "noUndefined.js",
+      ]
+    }
+  });
+</script>
+<div class="publication">
+    <div class="row">
+        <div class="small-12 columns">
+                <b>{{ include.title }}</b>.<br>
+                {{ include.authors }}.<br>
+                <i>{{ include.journal }}</i>, {{ include.year}}.
+                <br>
+                {% if include.id %}
+                <a onclick="toggle_visibility('{{ include.id}}_bib')" style="margin-left: 1rem; margin-right: 1rem;"> Bibtex </a>
+                {% endif %}
+
+                {% if include.abstract %}
+                <a onclick="toggle_visibility('{{ include.id}}')" style="margin-left: 1rem; margin-right: 1rem;"> Abstract </a>
+                {% endif %}
+
+                {% if include.code %}
+                    <a href="{{include.code}}" target="_blank" style="margin-left: 1rem; margin-right: 1rem;">Code</a>
+                {% endif %}
+
+                {% if include.pdf %}
+                    <a href="{{include.pdf}}" target="_blank" style="margin-left: 1rem; margin-right: 1rem;">PDF</a>
+                {% endif %}
+
+                {% if include.blog %}
+                    <a href="{{include.blog}}" target="_blank" style="margin-left: 1rem; margin-right: 1rem;">Article</a>
+                {% endif %}
+
+                <div id="{{ include.id }}" style="display:none;">
+                <hr>
+                        <p align="justify">{{ include.abstract }} </p>
+                </div>
+                <div id="{{ include.id }}_bib" style="display:none;">
+                    <hr>
+
+                    <p align="justify">
+                    @misc{ {{include.id}},<br>
+                    title={ {{include.title}} },<br>
+                    author={ {{include.authors}} },<br>
+                    year={ {{include.year}} }<br>
+                    eprint={ {{include.eprint}} },<br>
+                    archivePrefix={arXiv},<br>
+                    primaryClass={cs.CL}<br>
+                    }
+                    </p>
+                </div>
+        </div>
+        <hr>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+    }</script>

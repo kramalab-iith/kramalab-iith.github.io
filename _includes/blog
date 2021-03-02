@@ -1,0 +1,10 @@
+<div class="row">
+  <div class="small-12 columns">
+    <p class="small-gap"> <h3> <a href = "{{ include.link }}" target="_blank"> {{ include.title }} </a></h3></p>
+    <p class="small-gap"> <i> Written by {{ include.author }} on {{ include.date }}</i></p>
+    <img src="{{include.image}}">
+    <br>
+    <p class="small-gap"> {{ include.summary }}</p>
+  </div>
+</div>
+<hr>
