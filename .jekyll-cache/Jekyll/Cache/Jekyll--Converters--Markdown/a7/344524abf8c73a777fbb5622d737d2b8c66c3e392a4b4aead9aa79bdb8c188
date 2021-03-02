@@ -1,4 +1,4 @@
-I"®Æ<!--
+I"PÇ<!--
 TEMPLATE FOR ADDING NEW PAPER
 COPY IN PROPER HEADING AND ADD DETAILS AS REQUIRED
 
@@ -91,7 +91,7 @@ COPY IN PROPER HEADING AND ADD DETAILS AS REQUIRED
         <div class="small-7 columns">
             <b>RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network</b>.<br />
             Anson Bastos, Abhishek Nadgeri, Kuldeep Singh, Isaiah Onando Mulang, Saeedeh Shekarpour, Johannes Hoffart, and Manohar Kaul.<br />
-            <i><b>Web Conference (WWW)</b></i>, 2021.
+            <p style="color:blue;"><i><b>Web Conference (WWW)</b></i>, 2021.</p>
             <br />
             
             <a onclick="toggle_visibility('bastos2021recon_bib_highlight')" style="margin-left: 1rem; margin-right: 1rem;"> Bibtex </a>
@@ -175,7 +175,7 @@ COPY IN PROPER HEADING AND ADD DETAILS AS REQUIRED
         <div class="small-7 columns">
             <b>Self-Supervised Few-Shot Learning on Point Clouds</b>.<br />
             Charu Sharma and Manohar Kaul.<br />
-            <i><b>Neural Information Processing Systems (NeurIPS)</b></i>, 2020.
+            <p style="color:blue;"><i><b>Neural Information Processing Systems (NeurIPS)</b></i>, 2020.</p>
             <br />
             
             <a onclick="toggle_visibility('sharma2020selfsupervised_bib_highlight')" style="margin-left: 1rem; margin-right: 1rem;"> Bibtex </a>
@@ -261,7 +261,7 @@ COPY IN PROPER HEADING AND ADD DETAILS AS REQUIRED
         <div class="small-7 columns">
             <b>Simplicial Complex based Point Correspondence between Images warped onto Manifolds</b>.<br />
             Charu Sharma and Manohar Kaul.<br />
-            <i><b>European Conference on Computer Vision (ECCV)</b></i>, 2020.
+            <p style="color:blue;"><i><b>European Conference on Computer Vision (ECCV)</b></i>, 2020.</p>
             <br />
             
             <a onclick="toggle_visibility('sharma2020simplicial_bib_highlight')" style="margin-left: 1rem; margin-right: 1rem;"> Bibtex </a>
@@ -349,7 +349,7 @@ COPY IN PROPER HEADING AND ADD DETAILS AS REQUIRED
         <div class="small-7 columns">
             <b>Few-shot Learning on Graphs via Super-classes based on Graph Spectral Measures</b>.<br />
             Jatin Chauhan, Deepak Nathani, and Manohar Kaul.<br />
-            <i><b>International Conference on Learning Representations (ICLR)</b></i>, 2020.
+            <p style="color:blue;"><i><b>International Conference on Learning Representations (ICLR)</b></i>, 2020.</p>
             <br />
             
             <a onclick="toggle_visibility('chauhan2020fewshot_bib_highlight')" style="margin-left: 1rem; margin-right: 1rem;"> Bibtex </a>
@@ -437,7 +437,7 @@ COPY IN PROPER HEADING AND ADD DETAILS AS REQUIRED
         <div class="small-7 columns">
             <b>Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs (long paper)</b>.<br />
             Deepak Nathani, Jatin Chauhan, Charu Sharma, and Manohar Kaul.<br />
-            <i><b>Association for Computational Linguistics (ACL)</b></i>, 2019.
+            <p style="color:blue;"><i><b>Association for Computational Linguistics (ACL)</b></i>, 2019.</p>
             <br />
             
             <a onclick="toggle_visibility('nathani2019learning_bib_highlight')" style="margin-left: 1rem; margin-right: 1rem;"> Bibtex </a>
@@ -525,7 +525,7 @@ COPY IN PROPER HEADING AND ADD DETAILS AS REQUIRED
         <div class="small-7 columns">
             <b>Solving Partial Assignment Problems using Random Clique Complexes</b>.<br />
             Charu Sharma, Deepak Nathani, Manohar Kaul.<br />
-            <i><b>International Conference on Machine Learning (ICML)</b></i>, 2018.
+            <p style="color:blue;"><i><b>International Conference on Machine Learning (ICML)</b></i>, 2018.</p>
             <br />
             
             <a onclick="toggle_visibility('sharma2020solving_bib_highlight')" style="margin-left: 1rem; margin-right: 1rem;"> Bibtex </a>

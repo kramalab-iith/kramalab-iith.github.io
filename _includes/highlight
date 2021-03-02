@@ -29,7 +29,7 @@
         <div class="small-7 columns">
             <b>{{ include.title }}</b>.<br>
             {{ include.authors }}.<br>
-            <i><b>{{ include.journal }}</b></i>, {{ include.year}}.
+            <p style="color:blue;"><i><b>{{ include.journal }}</b></i>, {{ include.year}}.</p>
             <br>
             {% if include.id %}
             <a onclick="toggle_visibility('{{ include.id}}_bib_highlight')" style="margin-left: 1rem; margin-right: 1rem;"> Bibtex </a>
