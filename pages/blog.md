@@ -8,30 +8,27 @@ permalink: "/blog/"
 header:
     image_fullwidth: "graph.webp"
 ---
-
 <!--
 TEMPLATE FOR ADDING NEW BLOG
 COPY IN PROPER HEADING AND ADD DETAILS AS REQUIRED
 
-{% include blog 
-title="" 
-image="/assets/img/blog/" 
+{% include blog
+title=""
+image="/assets/img/blog/"
 author=""
 date=""
 link=""
 summary='<p align="justify">
 
-</p>' 
+</p>'
 %}
 
 
 -->
 
-
-
-{% include blog 
-title="Simplicial Complex based Point Correspondence between Images warped onto Manifolds" 
-image="/assets/img/blog/simplicial_complex.webp" 
+{% include blog
+title="Simplicial Complex based Point Correspondence between Images warped onto Manifolds"
+image="/assets/img/blog/simplicial_complex.webp"
 author="Charu Sharma"
 date="July 20,2020"
 link="https://medium.com/@charusharma1991/simplicial-complex-based-point-correspondence-between-images-warped-onto-manifolds-a8c541d2398f"
@@ -39,16 +36,13 @@ summary='<p align="justify">
 There exists a longstanding line of research on finding bijective correspondences (i.e.,assignments / matchings) between two sets of visual features. Notable applications include stereo matching, structure from motion (SfM), and image registration, etc. You can see our work from ICML 2018 on matching between two images in this <a href="https://medium.com/@charusharma1991/graph-matching-partial-assignment-problem-using-random-clique-complexes-59aef2bf7b57" target="_blank">blogpost</a>.
 <br>
 The recent proliferation of spherical images (e.g., omnidirectional and panoramic images captured from cameras mounted on drones and autonomous vehicles) and more generally, images warped onto manifolds with non-trivial curvatures, has sparked a heightened interest in assignment algorithms on warped images due to projection. Thus, we present our work from our <a href="https://eccv2020.eu/" target="_blank">ECCV 2020</a> paper titled <a href="https://arxiv.org/pdf/2007.02381.pdf" target="_blank">“Simplicial Complex based Point Correspondence between Images warped onto Manifolds”</a>.
-</p>' 
+
+</p>'
 %}
 
-
-
-
-
-{% include blog 
-title="Graph Matching: Partial Assignment Problem using Random Clique Complexes" 
-image="/assets/img/blog/graph_matching.webp" 
+{% include blog
+title="Graph Matching: Partial Assignment Problem using Random Clique Complexes"
+image="/assets/img/blog/graph_matching.webp"
 author="Charu Sharma"
 date="July 19, 2020"
 link="https://medium.com/@charusharma1991/graph-matching-partial-assignment-problem-using-random-clique-complexes-59aef2bf7b57"
@@ -57,17 +51,14 @@ The matching problem finds the assignment between two finite sets U and V, each 
 <br>
 Matching problem can be posed as a Graph Matching Problem where each graph’s nodes represent the objects and the edges encode their corresponding connection and/or distances. Thus, the goal is to find Inexact graph matching.
 <br>
-We present an alternate formulation of the partial assignment problem as matching random clique complexes, that are higher-order analogues of random graphs in our <a href="https://icml.cc/Conferences/2018" target="_blank">ICML 2018</a> paper titled <a href="http://proceedings.mlr.press/v80/sharma18a" target="_blank">“Solving Partial Assignment Problems using Random Clique Complexes”</a>.
-</p>' 
+We present an alternate formulation of the partial assignment problem as matching random clique complexes, that are higher-order analogues of random graphs in our <a href="https://icml.cc/Conferences/2018" target="_blank">ICML 2018</a> paper titled <a href="https://proceedings.mlr.press/v80/sharma18a" target="_blank">“Solving Partial Assignment Problems using Random Clique Complexes”</a>.
+
+</p>'
 %}
 
-
-
-
-
-{% include blog 
-title="Spectral-Biased Random Walks on Graphs" 
-image="/assets/img/blog/spectral_random.webp" 
+{% include blog
+title="Spectral-Biased Random Walks on Graphs"
+image="/assets/img/blog/spectral_random.webp"
 author="Charu Sharma"
 date="July 18, 2020"
 link="https://medium.com/swlh/spectral-biased-random-walks-on-graphs-9fd771e384ae"
@@ -75,31 +66,25 @@ summary='<p align="justify">
 Graph embedding methods have gained prominence in a wide variety of tasks including pattern recognition, low-dimensional embedding, clustering, anomaly detection, node classification, and link prediction, etc. Graphs can be mapped to low dimensional space which encodes graph information and creates node representation. From an input graph G=(V,E), embedding a graph is to map node feature matrix to d-dimensional continuous vector space. The input in continuous domains are required for machine learning and deep learning methods. In machine learning, the task of producing graph embeddings entails capturing local and global graph statistics and encoding them as vectors that best preserve these statistics in a computationally efficient manner.
 <br>
 We present our work from our <a href="https://www.ijcnn.org/" target="_blank">IJCNN</a> 2020 paper titled <a href="https://arxiv.org/pdf/2005.09752.pdf" target="_blank">“Learning Representations using Spectral-Biased Random Walks on Graphs”</a> focusing on solving Link Prediction problem. Given a graph, predict if two nodes are likely to have a link between them. Link prediction has several applications in social networks, biological networks, knowledge graphs, etc.
-</p>' 
+
+</p>'
 %}
 
-
-
-
-
-{% include blog 
-title="Few Shot Learning on Graphs" 
-image="/assets/img/blog/few_shot.webp" 
+{% include blog
+title="Few Shot Learning on Graphs"
+image="/assets/img/blog/few_shot.webp"
 author="Jatin Chauhan"
 date="June 7, 2020"
 link="https://medium.com/@cs17btech11019/few-shot-learning-on-graphs-f6312a9e9de5"
 summary='<p align="justify">
 Use of Graph Structured data has become quite a common data analysis and data representation technique, thus giving a greater impetus to research interest in developing graph neural networks for various tasks ranging from graph representation learning to link prediction and community detection in graphs. One of the most dominant problems in the graph domain is the well known classification problem. Similar to image classification, here our goal is to the classify a given set of graphs into various classes based on the graph structure and features present on the nodes and edges which could be via inductive or transductive learning techniques. The construction and labelling of graphs is however extremely tedious. Thus we propose, for the first time, the formulation of few-shot learning for graph classification in our <a href="https://iclr.cc/" target="_blank">ICLR</a> paper: <a href="https://openreview.net/forum?id=Bkeeca4Kvr" target="_blank">FEW-SHOT LEARNING ON GRAPHS VIA SUPER-CLASSES BASED ON GRAPH SPECTRAL MEASURES</a>.
-</p>' 
+
+</p>'
 %}
 
-
-
-
-
-{% include blog 
-title="Pay Attention, Relations are Important" 
-image="/assets/img/blog/attention.webp" 
+{% include blog
+title="Pay Attention, Relations are Important"
+image="/assets/img/blog/attention.webp"
 author="Deepak Nathani"
 date="July 12, 2019"
 link="https://deepakn97.github.io/blog/2019/Knowledge-Base-Relation-Prediction/"
@@ -107,5 +92,6 @@ summary='<p align="justify">
 In recent years, Knowledge Graphs have been utilized to solve many real world problems such as Semantic Search, Dialogue Generation and Question Answering to name a few. Knowledge Graphs suffer from incompleteness in form of missing entities and relations, which has fueled a lot of research on Knowledge Base completion. Relation prediction is one of the widely used approaches to solve the problem of incompleteness.
 <br>
 Here we will present our ACL 2019 work, <a href="https://arxiv.org/abs/1906.01195" target="_blank">Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs</a>, and introduce a novel neural network architecture which operates on Knowledge Graphs and learns to extract more expressive feature representations for entities and relations. Our model also addresses the shortcomings of previous methods like <a href="https://arxiv.org/abs/1712.02121" target="_blank">ConvKB</a>, <a href="https://arxiv.org/abs/1707.01476" target="_blank">ConvE</a>, <a href="https://arxiv.org/abs/1703.06103" target="_blank">RGCN</a>, <a href="https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data" target="_blank">TransE</a>, <a href="https://arxiv.org/pdf/1412.6575.pdf" target="_blank">DistMult</a> and <a href="https://arxiv.org/pdf/1606.06357.pdf" target="_blank">ComplEx</a>.
-</p>' 
+
+</p>'
 %}

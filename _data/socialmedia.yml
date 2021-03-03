@@ -49,7 +49,7 @@
       class: icon-link
       title: "Professional Website"
     - name: dblp
-      url: http://dblp.uni-trier.de/pers/hd/k/Kaul:Manohar
+      url: https://dblp.uni-trier.de/pers/hd/k/Kaul:Manohar
       class: icon-dblp
       title: "Professional DBLP account"
     - name: scholar

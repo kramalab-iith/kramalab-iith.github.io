@@ -4,18 +4,12 @@
 # 2. Change site author in config.yml
 # 3. Change default post/page authors in config.yml
 #
-# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-Obi: # replace this with your info
-  name: "Obi L. Griffith"
+# Resource › https://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+Manohar: # replace this with your info
+  name: "Manohar Kaul"
   siterole: "webmaster, developer"
-#  uri:
-#  email:
-#  twitter:
-# you can add more authors here
-Malachi: # replace this with your info
-  name: "Malachi Griffith"
-  siterole: "webmaster, developers"
 
-Zach: # replace this with your info
-  name: "Zachary Skidmore"
-  siterole: "webmaster, developers"
+  # you can add more authors here
+Vishal: # replace this with your info
+  name: "Vishal singh"
+  siterole: "developer"
