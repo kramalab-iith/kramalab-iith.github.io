@@ -92,13 +92,13 @@ $topbar-link-bg-active-hover: $ci-2;
 
 
 $topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
-$topbar-dropdown-link-color: #000;
+$topbar-dropdown-link-color: #ffffff;
 $topbar-dropdown-link-bg: $ci-6;
 
-$topbar-menu-link-color-toggled: $ci-6;
+$topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-6;
-$topbar-menu-link-color: rgb(0, 0, 0);
-$topbar-menu-icon-color: rgb(0, 0, 0);
+$topbar-menu-link-color: $ci-1;
+$topbar-menu-icon-color: rgb(255, 255, 255);
 
 
 /* Footer

@@ -8,7 +8,7 @@ header:
 <div class="row">
     <div class="small-12 small-centered columns">
         <img src="/assets/img/contact.webp">
-<h5>Manohar Kaul</h5>
+<h5><a href="https://manukaul.github.io" target="_blank">Dr Manohar Kaul</a></h5>
     <p>
       <b>Email:</b> mkaul [at] cse [dot] iith [dot] ac [dot] in <br>
       <b>Address:</b> C-425, Academic Block C, Indian Institute of Technology, Hyderabad<br>
@@ -20,7 +20,7 @@ header:
 
 <div class="row">
     <div class="small-12 small-centered columns">
-        <h5>Indian Institute of Technology, Hyderabad</h5>
+        <h5><a href="https://iith.ac.in" target="_blank">Indian Institute of Technology, Hyderabad</a></h5>
         <p>
           <b>Address:</b><br>IITH Main Road<br>
           Kandi, Sangareddy<br>
