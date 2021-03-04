@@ -1,5 +1,5 @@
 - name: GitHub
-  url: https://t0kudai.github.io'
+  url: https://github.com/kramalab-iith'
   class: icon-github
   title: Github repo for site.
 
@@ -45,7 +45,7 @@
       class: icon-linkedin
       title: "Professional LinkedIn account"
     - name: Link
-      url: https://subodh01006.github.io/
+      url: https://mkaul.github.io/
       class: icon-link
       title: "Professional Website"
     - name: dblp

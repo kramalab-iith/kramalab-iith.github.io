@@ -1,7 +1,7 @@
 ## Overview
 
-This is the github repo for the Krama Lab [website](https://T0kudai.github.io). The website uses the static site generator [jekyll](https://jekyllrb.com/) and is based on the [Feeling Responsive jekyll theme](https://github.com/Phlow/feeling-responsive). Development occurs on the dev branch, the live site is located on the master branch.
-The template for this website was taken from [Griffith Lab](https://github.com/griffithlab/griffithlab.org) 
+This is the github repo for the Krama Lab [website](https://krama.cse.iith.ac.in). The website uses the static site generator [jekyll](https://jekyllrb.com/) and is based on the [Feeling Responsive jekyll theme](https://github.com/Phlow/feeling-responsive). Development occurs on the dev branch, the live site is located on the master branch.
+The template for this website was taken from [Griffith Lab](https://github.com/griffithlab/griffithlab.org)
 
 ## Installation
 
