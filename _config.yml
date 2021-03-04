@@ -25,7 +25,7 @@ author: Manohar Kaul
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://kramalab-iith.github.io'
+url: 'https://krama.cse.iith.ac.in'
 #baseurl: '/vicc', this breaks github pages for some reason, investigate, ZL
 
 
@@ -39,7 +39,7 @@ improve_content: https://github.com/kramalab-iith.github.io/edit/master/
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://kramalab-iith.github.io/assests/img/sitewide'
+urlimg: 'https:krama.cse.iith.ac.in/assests/img/'
 
 
 # Logo size is 600x80 pixels
