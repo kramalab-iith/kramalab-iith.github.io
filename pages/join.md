@@ -23,7 +23,7 @@ For more specific instructions on how to join, please carefully read the instruc
 <br>
 <p>
 We have had several undergraduate researchers over the years, and they have gone on to enjoy great success in a number of areas. We are now accepting highly motivated, serious, and committed students to work on projects in the lab. Email to <i><b>mkaul [at] cse [dot] iith [dot] ac [dot] in</b></i> your CV with the current CGPA, major, list of relevant courses taken, mark transcript, intended hours in the lab per week, previous research experience, and future goals. Include a brief description of your research interests and how you see a fit with the research carried out at <a href="https://krama.cse.iith.ac.in">क्रम (Krama) lab</a>.
-<a href="https://mkaul.github.io">Dr. Manohar Kaul</a> will follow up to meet and talk about research opportunities available.
+<a href="https://manukaul.github.io/">Dr. Manohar Kaul</a> will follow up to meet and talk about research opportunities available.
 </p>
 <br>
 

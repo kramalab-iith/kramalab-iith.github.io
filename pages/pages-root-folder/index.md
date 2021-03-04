@@ -27,7 +27,7 @@ header:
     image_fullwidth: "graph.jpg"
 ---
 <p>
-The <a href="/">क्रम (Krama) Lab</a> is a research group steered by the research interests of <a href="https://mkaul.github.io" target="_blank">Dr. Manohar Kaul</a>. Our research projects primarily focus on <b>applied algebraic topology</b> (topological data analysis), <b>optimal transport theory</b> (discrete OT and assignment / matching problems), and 
+The <a href="/">क्रम (Krama) Lab</a> is a research group steered by the research interests of <a href="https://manukaul.github.io/" target="_blank">Dr. Manohar Kaul</a>. Our research projects primarily focus on <b>applied algebraic topology</b> (topological data analysis), <b>optimal transport theory</b> (discrete OT and assignment / matching problems), and
 <b>geometric deep learning</b> (graph and point-cloud representation learning, knowledge graph representations). The work aims to propose machine learning algorithms that are both practical and theoretically well-founded. An overarching principle underlying most of our lab's research is to produce efficient learning algorithms that exploit the geometric and/or topological information
 present in data, which can manifest itself as latent higher-order structures, to perform well on limited training examples.
 </p>
