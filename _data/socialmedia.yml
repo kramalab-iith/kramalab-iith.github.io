@@ -160,3 +160,31 @@
       url: https://www.linkedin.com/in/subodh1827/
       class: icon-linkedin
       title: "Professional LinkedIn account"
+
+- member_name: akshita
+  social:
+    - name: Twitter
+      url: https://twitter.com/Akshita96921930
+      class: icon-twitter
+      title: "Professional Twitter account"
+
+- member_name: varun
+  social:
+    - name: linkedin
+      url: https://www.linkedin.com/in/varunmishra028/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+
+- member_name: nikhil
+  social:
+    - name: linkedin
+      url: https://www.linkedin.com/in/nikhil-p-kumaar-930472b9/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+
+- member_name: pratik
+  social:
+    - name: linkedin
+      url: https://www.linkedin.com/in/pratik-shukla-676526112/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
