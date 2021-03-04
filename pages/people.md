@@ -193,7 +193,7 @@ Nikhil was a masters student at IITH. He worked on his thesis titled Scene Graph
 at <a href="https://www.nvidia.com/en-in/" target="_blank">NVIDIA</a>.
 
 </p>'
-image="/assets/img/team/default.webp"
+image="/assets/img/team/nikhil.webp"
 interests="Scene graphs"
 %}
 
@@ -206,7 +206,7 @@ currently working at
 <a href="https://www.qualcomm.com/" target="_blank">Qualcomm</a>.
 
 </p>'
-image="/assets/img/team/default.webp"
+image="/assets/img/team/pratik.webp"
 interests="Knowledge graphs"
 %}
 
