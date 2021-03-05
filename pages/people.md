@@ -182,7 +182,7 @@ Bangalore</a>.
 
 </p>'
 image="/assets/img/team/deepak.webp"
-interests="Knowledge graphs"
+interests="Controllable natural language generation, Conversational AI, Graph neural networks, Knowledge graph representation learning"
 %}
 
 {% include team_member
