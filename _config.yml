@@ -39,7 +39,7 @@ improve_content: https://github.com/kramalab-iith.github.io/edit/master/
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://krama.cse.iith.ac.in/assests/img/'
+urlimg: 'https://krama.cse.iith.ac.in/assets/img/'
 
 
 # Logo size is 600x80 pixels
