@@ -26,7 +26,7 @@ author: Manohar Kaul
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://krama.cse.iith.ac.in'
-#baseurl: '/vicc', this breaks github pages for some reason, investigate, ZL
+baseurl: '' #this breaks github pages for some reason, investigate, ZL
 
 
 # This is for the editing function in _/includes/improve_content
