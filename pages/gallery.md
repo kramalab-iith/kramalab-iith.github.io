@@ -14,9 +14,9 @@ tags:
 # Gallery
 #
 gallery:
-    - image_url: gallery/img1.webp
-    - image_url: gallery/img2.webp
-    - image_url: gallery/img3.webp
+    - image_url: img1.webp
+    - image_url: img2.webp
+    - image_url: img3.webp
 #
 # Styling
 #
