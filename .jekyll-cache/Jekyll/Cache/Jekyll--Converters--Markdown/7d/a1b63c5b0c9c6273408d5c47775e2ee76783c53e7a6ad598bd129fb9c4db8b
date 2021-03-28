@@ -1,0 +1,23 @@
+I"M
+<div>
+	<ul class="clearing-thumbs small-block-grid-2" data-clearing="">
+		
+		
+		
+		
+		<li><a href="http://localhost:4000/assets/img/gallery/img1.webp"><img src="http://localhost:4000/assets/img/gallery/img1-thumb.webp" alt="" /></a></li>
+		
+		
+		
+		
+		<li><a href="http://localhost:4000/assets/img/gallery/img2.webp"><img src="http://localhost:4000/assets/img/gallery/img2-thumb.webp" alt="" /></a></li>
+		
+		
+		
+		
+		<li><a href="http://localhost:4000/assets/img/gallery/img3.webp"><img src="http://localhost:4000/assets/img/gallery/img3-thumb.webp" alt="" /></a></li>
+		
+	</ul>
+</div>
+
+:ET

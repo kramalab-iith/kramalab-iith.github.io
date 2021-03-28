@@ -37,6 +37,10 @@
   url: "/blog/"
   side: left
 
+- title: Gallery
+  url: "/gallery/"
+  side: left
+
 - title: Funded Projects
   url: "/funding/"
   side: left
