@@ -66,20 +66,7 @@ problems), Applied algebraic topology (topological data analysis)"
 
 <h2 data-magellan-destination="PhD">PhDs </h2><a name="PhD"></a>
 
-{% include team_member
-member_name="charu"
-full_name="Charu Sharma"
-bio='<p align="justify">
-Charu is currently a Ph.D. in the <a href="https://cse.iith.ac.in/" target="_blank">Department of Computer Science
-and Engineering (CSE)</a> at the <a href="https://iith.ac.in/" target="_blank">Indian Institute of Technology,
-Hyderabad (IIT-H)</a>. She has received
-“Excellence in Research Award” in 2020 and “Certificate of Appreciation in Research” in 2019 at <a
-href="https://iith.ac.in" target="_blank">IIT Hyderabad</a>.
 
-</p>'
-image="/assets/img/team/charu.webp"
-interests="Geometric machine learning, Point cloud data, Assignment problems, Optimal transport"
-%}
 
 {% include team_member
 member_name="anson"
@@ -148,6 +135,27 @@ interests="Geometric machine learning, Natural language processing, Graph neural
 
 <h2 data-magellan-destination="Undergraduate_Students">Undergraduate Students</h2><a name="Undergraduate_Students"></a>
 
+
+
+<!-- ################################################################################################   ALUMNI    ################################################################################################################ -->
+
+<h2 data-magellan-destination="Alumni">Alumni</h2><a name="Alumni"></a>
+
+{% include team_member
+member_name="charu"
+full_name="Charu Sharma"
+bio='<p align="justify">
+Charu is currently a Ph.D. in the <a href="https://cse.iith.ac.in/" target="_blank">Department of Computer Science
+and Engineering (CSE)</a> at the <a href="https://iith.ac.in/" target="_blank">Indian Institute of Technology,
+Hyderabad (IIT-H)</a>. She has received
+“Excellence in Research Award” in 2020 and “Certificate of Appreciation in Research” in 2019 at <a
+href="https://iith.ac.in" target="_blank">IIT Hyderabad</a>.
+
+</p>'
+image="/assets/img/team/charu.webp"
+interests="Geometric machine learning, Point cloud data, Assignment problems, Optimal transport"
+%}
+
 {% include team_member
 member_name="jatin"
 full_name="Jatin Chauhan"
@@ -162,10 +170,6 @@ interests="Explainability and interpretability of deep neural networks (more spe
 analysis of neural networks,
 Knowledge graphs, Graph neural networks"
 %}
-
-<!-- ################################################################################################   ALUMNI    ################################################################################################################ -->
-
-<h2 data-magellan-destination="Alumni">Alumni</h2><a name="Alumni"></a>
 
 {% include team_member
 member_name="deepak"
