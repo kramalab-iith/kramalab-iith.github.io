@@ -32,6 +32,7 @@ interests=""
         <li data-magellan-arrival="Faculty"><a href="#Faculty">Faculty</a></li>
         <li data-magellan-arrival="PhD"><a href="#PhDs">PhD</a></li>
         <li data-magellan-arrival="Masters_Students"><a href="#Masters_Students">Masters Students (RA)</a></li>
+	<li data-magellan-arrival="Masters_Students"><a href="#Masters_Students">Masters Students (TA)</a></li>
         <li data-magellan-arrival="Undergraduate_Students"><a href="#Undergraduate_Students">Undergraduate Students</a>
         </li>
         <!-- <li data-magellan-arrival="Staff"><a href="#Staff">Staff</a></li>
@@ -130,6 +131,24 @@ of Technology, Hyderabad (IIT-H)</a>.
 image="/assets/img/team/vishal.webp"
 interests="Geometric machine learning, Natural language processing, Graph neural networks"
 %}
+
+
+<h2 data-magellan-destination="Masters_Students">Masters Students (TA)</h2><a name="Masters_Students"></a>
+
+
+{% include team_member
+member_name="jaynee"
+full_name="Jaynee Rawal"
+bio='<p align="justify">
+Jaynee is currently a Masters student in the <a href="https://cse.iith.ac.in/" target="_blank">Department of
+Computer Science and Engineering (CSE)</a> at the <a href="https://iith.ac.in/" target="_blank">Indian Institute
+of Technology, Hyderabad (IIT-H)</a>.
+
+</p>'
+image="/assets/img/team/jaynee.webp"
+interests="Graph Neural Networks(Contrastive Learning and Representation Learning), Natural Language Processing"
+%}
+
 
 <!-- #############################################################################################   UNDERGRADUATE    ############################################################################################################# -->
 
