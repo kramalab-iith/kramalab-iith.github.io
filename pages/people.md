@@ -164,11 +164,14 @@ interests="Graph Neural Networks(Contrastive Learning and Representation Learnin
 member_name="charu"
 full_name="Charu Sharma"
 bio='<p align="justify">
-Charu is currently a Ph.D. in the <a href="https://cse.iith.ac.in/" target="_blank">Department of Computer Science
+Charu was a Ph.D. student in the <a href="https://cse.iith.ac.in/" target="_blank">Department of Computer Science
 and Engineering (CSE)</a> at the <a href="https://iith.ac.in/" target="_blank">Indian Institute of Technology,
-Hyderabad (IIT-H)</a>. She has received
+Hyderabad (IIT-H)</a>. She received
 “Excellence in Research Award” in 2020 and “Certificate of Appreciation in Research” in 2019 at <a
 href="https://iith.ac.in" target="_blank">IIT Hyderabad</a>.
+<br>
+She is now an Assistant Professor in <a href="https://mll.iiit.ac.in/" target="_blank">Machine Learning Lab</a>
+at <a href="https://www.iiit.ac.in/" target="_blank">International Institute of Information Technology, Hyderabad.</a>
 
 </p>'
 image="/assets/img/team/charu.webp"
@@ -179,9 +182,13 @@ interests="Geometric machine learning, Point cloud data, Assignment problems, Op
 member_name="jatin"
 full_name="Jatin Chauhan"
 bio='<p align="justify">
-Jatin is a final-year undergraduate student in the department of <a href="https://cse.iith.ac.in/"
+Jatin was a undergraduate student in the department of <a href="https://cse.iith.ac.in/"
 target="_blank">CSE</a> at the <a href="https://iith.ac.in/" target="_blank">Indian Institute of Technology,
-Hyderabad (IIT-H)</a>.
+Hyderabad (IIT-H)</a>. He graduated with a B.Tech degree in Computer Science.
+<br>
+He is currenlty working at <a href="https://research.google/locations/india/" target="_blank">Google Research,
+Bangalore</a>
+
 
 </p>'
 image="/assets/img/team/jatin.webp"
