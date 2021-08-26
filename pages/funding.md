@@ -31,7 +31,7 @@ The क्रम (Krama) Lab is located in Indian Institue of Technology, Hydera
 <!-- ##################################################################################################### ALL CHANGES BELOW THIS ############################################################################################### -->
 
 
-<div class="row">
+<div class="row" style="margin-top:50px;">
 
   <div class="small-2 columns">
     <a href="hhtps://iith.ac.in">
@@ -53,7 +53,7 @@ The क्रम (Krama) Lab is located in Indian Institue of Technology, Hydera
 
 </div>
 
-<div class="row">
+<div class="row" style="margin-top:50px;">
   <div class="small-4 columns">
     <a href="https://www.fujitsu.com/global/">
       <img src="/assets/img/funding/fujitsu.webp">
