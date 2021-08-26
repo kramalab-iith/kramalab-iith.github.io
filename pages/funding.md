@@ -39,15 +39,24 @@ The क्रम (Krama) Lab is located in Indian Institue of Technology, Hydera
     </a>
   </div>
 
-<div class="small-2 columns" style="margin-left: 5rem;">
+  <div class="small-2 columns" style="margin-left: 5rem;">
     <a href="https://www.nvidia.com/en-in/">
       <img src="/assets/img/funding/nvidia.webp">
     </a>
   </div>
 
-<div class="small-5 columns">
+  <div class="small-5 columns">
     <a href="https://greatfour.com">
       <img src="/assets/img/funding/greatfour.webp">
+    </a>
+  </div>
+
+</div>
+
+<div class="row">
+  <div class="small-4 columns">
+    <a href="https://www.fujitsu.com/global/">
+      <img src="/assets/img/funding/fujitsu.webp">
     </a>
   </div>
 
