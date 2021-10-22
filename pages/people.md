@@ -49,11 +49,11 @@ interests=""
 {% include team_member
 member_name="manohar"
 full_name="Manohar Kaul"
-bio='<p align="justify">
-Dr Manohar Kaul is an assistant professor in the <a href="https://cse.iith.ac.in/" target="_blank">Department of
-Computer Science and Engineering (CSE)</a> at the <a href="https://iith.ac.in/" target="_blank">Indian Institute
-of Technology, Hyderabad (IIT-H)</a>, where he heads the <a href="/">क्रम (Krama)
-Lab</a>. His work involves developing practical machine learning algorithms with rigorous theoretical
+bio='`<p align="justify">`
+Dr Manohar Kaul is an associate professor in the `<a href="https://cse.iith.ac.in/" target="_blank">`Department of
+Computer Science and Engineering (CSE)`</a>` at the `<a href="https://iith.ac.in/" target="_blank">`Indian Institute
+of Technology, Hyderabad (IIT-H)`</a>`, where he heads the `<a href="/">`क्रम (Krama)
+Lab `</a>`. His work involves developing practical machine learning algorithms with rigorous theoretical
 foundations.
 
 </p>'
@@ -67,15 +67,13 @@ problems), Applied algebraic topology (topological data analysis)"
 
 <h2 data-magellan-destination="PhD">PhDs </h2><a name="PhD"></a>
 
-
-
 {% include team_member
 member_name="anson"
 full_name="Anson Simon Bastos"
-bio='<p align="justify">
-Anson is a part-time PhD candidate in the <a href="https://cse.iith.ac.in/" target="_blank">Department of Computer
-Science and Engineering (CSE)</a> at the <a href="https://iith.ac.in/" target="_blank">Indian Institute of
-Technology, Hyderabad (IIT-H)</a>. He has been working on solving research problems in Knowledge Graphs such
+bio='`<p align="justify">`
+Anson is a part-time PhD candidate in the `<a href="https://cse.iith.ac.in/" target="_blank">`Department of Computer
+Science and Engineering (CSE)`</a>` at the `<a href="https://iith.ac.in/" target="_blank">`Indian Institute of
+Technology, Hyderabad (IIT-H)`</a>`. He has been working on solving research problems in Knowledge Graphs such
 as Relation Extraction, Link Prediction, Entity Linking etc.
 
 </p>'
@@ -86,15 +84,15 @@ interests="Intersection of Machine learning, Topology, Geometric machine learnin
 {% include team_member
 member_name="akshita"
 full_name="Akshita Parekh"
-bio='<p align="justify">
-Akshita is a part-time Ph.D. student in the <a href="https://cse.iith.ac.in/" target="_blank">Department of Computer
-Science and Engineering (CSE)</a> at the <a href="https://iith.ac.in/" target="_blank">Indian Institute of
-Technology, Hyderabad (IIT-H)</a>. Her work involves developing machine learning algorithms for applications
+bio='`<p align="justify">`
+Akshita is a part-time Ph.D. student in the `<a href="https://cse.iith.ac.in/" target="_blank">`Department of Computer
+Science and Engineering (CSE)`</a>` at the `<a href="https://iith.ac.in/" target="_blank">`Indian Institute of
+Technology, Hyderabad (IIT-H)`</a>`. Her work involves developing machine learning algorithms for applications
 based on Auto ML.
-<br>
-She is also working in the IT section of a unit of the <a href="https://dae.gov.in/" target="_blank">Department of
-Atomic Energy</a>. She completed her M.Tech in Computer Science and Engineering from <a
-href="https://www.hbni.ac.in/" target="_blank">Homi Bhabha National Institute, Mumbai</a> under the supervision
+`<br>`
+She is also working in the IT section of a unit of the `<a href="https://dae.gov.in/" target="_blank">`Department of
+Atomic Energy`</a>`. She completed her M.Tech in Computer Science and Engineering from `<a
+href="https://www.hbni.ac.in/" target="_blank">`Homi Bhabha National Institute, Mumbai`</a>` under the supervision
 of Dr. Gopika Vinod and Ms. Urvashi Karnani Gaur.
 
 </p>'
@@ -109,10 +107,10 @@ interests="Scalable auto machine learning, Intersection of DBMS and machine lear
 {% include team_member
 member_name="subodh"
 full_name="Subodh Nigam"
-bio='<p align="justify">
-Subodh is currently a Masters student in the <a href="https://cse.iith.ac.in/" target="_blank">Department of
-Computer Science and Engineering (CSE)</a> at the <a href="https://iith.ac.in/" target="_blank">Indian Institute
-of Technology, Hyderabad (IIT-H)</a>.
+bio='`<p align="justify">`
+Subodh is currently a Masters student in the `<a href="https://cse.iith.ac.in/" target="_blank">`Department of
+Computer Science and Engineering (CSE)`</a>` at the `<a href="https://iith.ac.in/" target="_blank">`Indian Institute
+of Technology, Hyderabad (IIT-H)`</a>`.
 
 </p>'
 image="/assets/img/team/subodh.webp"
@@ -122,39 +120,34 @@ interests="Geometric machine learning"
 {% include team_member
 member_name="vishal"
 full_name="Vishal Singh Yadav"
-bio='<p align="justify">
-Vishal is currently a Masters student in the <a href="https://cse.iith.ac.in/" target="_blank">Department of
-Computer Science and Engineering (CSE)</a> at the <a href="https://iith.ac.in/" target="_blank">Indian Institute
-of Technology, Hyderabad (IIT-H)</a>.
+bio='`<p align="justify">`
+Vishal is currently a Masters student in the `<a href="https://cse.iith.ac.in/" target="_blank">`Department of
+Computer Science and Engineering (CSE)`</a>` at the `<a href="https://iith.ac.in/" target="_blank">`Indian Institute
+of Technology, Hyderabad (IIT-H)`</a>`.
 
 </p>'
 image="/assets/img/team/vishal.webp"
 interests="Geometric machine learning, Natural language processing, Graph neural networks"
 %}
 
-
 <h2 data-magellan-destination="Masters_Students">Masters Students (TA)</h2><a name="Masters_Students"></a>
-
 
 {% include team_member
 member_name="jaynee"
 full_name="Jaynee Rawal"
-bio='<p align="justify">
-Jaynee is currently a Masters student in the <a href="https://cse.iith.ac.in/" target="_blank">Department of
-Computer Science and Engineering (CSE)</a> at the <a href="https://iith.ac.in/" target="_blank">Indian Institute
-of Technology, Hyderabad (IIT-H)</a>.
+bio='`<p align="justify">`
+Jaynee is currently a Masters student in the `<a href="https://cse.iith.ac.in/" target="_blank">`Department of
+Computer Science and Engineering (CSE)`</a>` at the `<a href="https://iith.ac.in/" target="_blank">`Indian Institute
+of Technology, Hyderabad (IIT-H)`</a>`.
 
 </p>'
 image="/assets/img/team/jaynee.webp"
 interests="Graph Neural Networks(Contrastive Learning and Representation Learning), Natural Language Processing"
 %}
 
-
 <!-- #############################################################################################   UNDERGRADUATE    ############################################################################################################# -->
 
 <h2 data-magellan-destination="Undergraduate_Students">Undergraduate Students</h2><a name="Undergraduate_Students"></a>
-
-
 
 <!-- ################################################################################################   ALUMNI    ################################################################################################################ -->
 
@@ -163,15 +156,15 @@ interests="Graph Neural Networks(Contrastive Learning and Representation Learnin
 {% include team_member
 member_name="charu"
 full_name="Charu Sharma"
-bio='<p align="justify">
-Charu was a Ph.D. student in the <a href="https://cse.iith.ac.in/" target="_blank">Department of Computer Science
-and Engineering (CSE)</a> at the <a href="https://iith.ac.in/" target="_blank">Indian Institute of Technology,
-Hyderabad (IIT-H)</a>. She received
-“Excellence in Research Award” in 2020 and “Certificate of Appreciation in Research” in 2019 at <a
-href="https://iith.ac.in" target="_blank">IIT Hyderabad</a>.
-<br>
-She is now an Assistant Professor in <a href="https://mll.iiit.ac.in/" target="_blank">Machine Learning Lab</a>
-at <a href="https://www.iiit.ac.in/" target="_blank">International Institute of Information Technology, Hyderabad.</a>
+bio='`<p align="justify">`
+Charu was a Ph.D. student in the `<a href="https://cse.iith.ac.in/" target="_blank">`Department of Computer Science
+and Engineering (CSE)`</a>` at the `<a href="https://iith.ac.in/" target="_blank">`Indian Institute of Technology,
+Hyderabad (IIT-H)`</a>`. She received
+“Excellence in Research Award” in 2020 and “Certificate of Appreciation in Research” in 2019 at `<a
+href="https://iith.ac.in" target="_blank">`IIT Hyderabad`</a>`.
+`<br>`
+She is now an Assistant Professor in `<a href="https://mll.iiit.ac.in/" target="_blank">`Machine Learning Lab`</a>`
+at `<a href="https://www.iiit.ac.in/" target="_blank">`International Institute of Information Technology, Hyderabad.`</a>`
 
 </p>'
 image="/assets/img/team/charu.webp"
@@ -181,14 +174,13 @@ interests="Geometric machine learning, Point cloud data, Assignment problems, Op
 {% include team_member
 member_name="jatin"
 full_name="Jatin Chauhan"
-bio='<p align="justify">
-Jatin was a undergraduate student in the department of <a href="https://cse.iith.ac.in/"
-target="_blank">CSE</a> at the <a href="https://iith.ac.in/" target="_blank">Indian Institute of Technology,
-Hyderabad (IIT-H)</a>. He graduated with a B.Tech degree in Computer Science.
-<br>
-He is currenlty working at <a href="https://research.google/locations/india/" target="_blank">Google Research,
-Bangalore</a>
-
+bio='`<p align="justify">`
+Jatin was a undergraduate student in the department of `<a href="https://cse.iith.ac.in/"
+target="_blank">`CSE`</a>` at the `<a href="https://iith.ac.in/" target="_blank">`Indian Institute of Technology,
+Hyderabad (IIT-H)`</a>`. He graduated with a B.Tech degree in Computer Science.
+`<br>`
+He is currenlty working at `<a href="https://research.google/locations/india/" target="_blank">`Google Research,
+Bangalore`</a>`
 
 </p>'
 image="/assets/img/team/jatin.webp"
@@ -200,15 +192,15 @@ Knowledge graphs, Graph neural networks"
 {% include team_member
 member_name="deepak"
 full_name="Deepak Nathani"
-bio='<p align="justify">
-Deepak was a undergraduate student in the department of <a href="https://cse.iith.ac.in/" target="_blank">Computer
-Science and Engineering</a> at the <a href="https://iith.ac.in/" target="_blank">Indian Institute of Technology,
-Hyderabad (IIT-H)</a>. He graduated with a B.Tech degree in Mechanical Engineering and Computer Science as his
+bio='`<p align="justify">`
+Deepak was a undergraduate student in the department of `<a href="https://cse.iith.ac.in/" target="_blank">`Computer
+Science and Engineering`</a>` at the `<a href="https://iith.ac.in/" target="_blank">`Indian Institute of Technology,
+Hyderabad (IIT-H)`</a>`. He graduated with a B.Tech degree in Mechanical Engineering and Computer Science as his
 second major.
-<br>
+`<br>`
 During his time as an undergraduate in the lab, he worked on various research problems under Dr. Manohar Kaul. He
-is currenlty working at <a href="https://research.google/locations/india/" target="_blank">Google Research,
-Bangalore</a>.
+is currenlty working at `<a href="https://research.google/locations/india/" target="_blank">`Google Research,
+Bangalore`</a>`.
 
 </p>'
 image="/assets/img/team/deepak.webp"
@@ -218,9 +210,9 @@ interests="Controllable natural language generation, Conversational AI, Graph ne
 {% include team_member
 member_name="nikhil"
 full_name="Nikhil P. Kumaar"
-bio='<p align="justify">
+bio='`<p align="justify">`
 Nikhil was a masters student at IITH. He worked on his thesis titled Scene Graph Generation. He is currently working
-at <a href="https://www.nvidia.com/en-in/" target="_blank">NVIDIA</a>.
+at `<a href="https://www.nvidia.com/en-in/" target="_blank">`NVIDIA`</a>`.
 
 </p>'
 image="/assets/img/team/nikhil.webp"
@@ -230,10 +222,10 @@ interests="Scene graphs"
 {% include team_member
 member_name="pratik"
 full_name="Pratik Shukla"
-bio='<p align="justify">
+bio='`<p align="justify">`
 Pratik was a masters student at IITH. He worked on his thesis titled Text Clustering using Graph Kernels. He is
 currently working at
-<a href="https://www.qualcomm.com/" target="_blank">Qualcomm</a>.
+`<a href="https://www.qualcomm.com/" target="_blank">`Qualcomm`</a>`.
 
 </p>'
 image="/assets/img/team/pratik.webp"
@@ -243,10 +235,10 @@ interests="Knowledge graphs"
 {% include team_member
 member_name="varun"
 full_name="Varun Mishra"
-bio='<p align="justify">
+bio='`<p align="justify">`
 Varun was a masters student at IITH. He worked on his thesis titled Document Simplicial Complexes. He is currently
 working at
-<a href="https://www.flipkart.com/" target="_blank">Flipkart</a>.
+`<a href="https://www.flipkart.com/" target="_blank">`Flipkart`</a>`.
 
 </p>'
 image="/assets/img/team/varun.webp"
