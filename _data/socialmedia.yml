@@ -137,7 +137,7 @@
 - member_name: vishal
   social:
     - name: GitHub
-      url: https://github.com/T0kudai
+      url: https://github.com/tokudai-vs
       class: icon-github
       title: "GitHub Profile"
     - name: Twitter
@@ -148,6 +148,10 @@
       url: https://www.linkedin.com/in/tokudai/
       class: icon-linkedin
       title: "Professional LinkedIn account"
+    - name: Link
+      url: https://tokudai-vs.github.io/
+      class: icon-link
+      title: "Personal Website"
 
 
 - member_name: subodh
